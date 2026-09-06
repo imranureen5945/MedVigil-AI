@@ -1,6 +1,6 @@
 # MedVigil AI — Intelligent Pharmacovigilance & Family Medicine Safety System
 
-MedVigil AI is a production-grade full-stack healthcare platform designed to prevent drug interactions, detect DRAP (Drug Regulatory Authority of Pakistan) product recalls, eliminate duplicate medication therapies, and recognize pharmaceutical packaging via Gemini Multi-Modal Vision and OCR.
+MedVigil AI is a production-grade full-stack healthcare platform designed to prevent drug interactions, detect DRAP (Drug Regulatory Authority of Pakistan) product recalls, eliminate duplicate medication therapies.
 
 ---
 
