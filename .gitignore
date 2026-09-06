@@ -1,0 +1,34 @@
+# Environment variables and secrets
+.env
+.env.*
+.env.local
+.env.production
+.env.development
+.env.test
+
+# Dependencies
+node_modules/
+*/node_modules/
+
+# Build outputs
+dist/
+build/
+*/dist/
+*/build/
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Database files (optional - uncomment if database should not be tracked)
+# server/data/medvigil.db

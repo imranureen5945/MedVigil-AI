@@ -1,0 +1,28 @@
+{
+  "nav": {
+    "dashboard": "Dashboard",
+    "drugInfo": "Drug Info",
+    "scanMedicine": "Scan Medicine",
+    "symptoms": "Risk Assessment",
+    "safetyCenter": "Safety Center",
+    "familyProfile": "Family Profile",
+    "emergencyGuide": "Emergency Guide",
+    "doctorConnect": "Doctor Connect",
+    "analytics": "Analytics",
+    "logout": "Logout"
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "healthSummary": "Health Summary",
+    "quickActions": "Quick Actions"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "empty": "No data found",
+    "save": "Save",
+    "cancel": "Cancel",
+    "submit": "Submit"
+  }
+}
